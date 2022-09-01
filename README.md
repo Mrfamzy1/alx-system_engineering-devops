@@ -1,3 +1,3 @@
-Create a script that creates a directory named m
+Write 
 
-y_first_directory in the /tmp/ directory.
+a script that prints the effective username of the current user.
